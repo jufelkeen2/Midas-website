@@ -24,6 +24,7 @@ const anita_config = {
         //     'Classic Grid': 'works-classic-grid.html',
         //     'Simple Menu': 'simple-menu.html'
         // },
+        'Edits': 'page-edits.html',
         'Galleries': "albums-masonry-2col.html",
         'About': 'page-about.html',
         'Services': 'page-services.html',
